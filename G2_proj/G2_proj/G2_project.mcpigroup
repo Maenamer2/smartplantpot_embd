@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Embedded codes from the videos\G1_proj.mcppi
+Project1=G2_project.mcppi
+[ActiveProject]
+Index=1
